@@ -59,11 +59,14 @@ Developed by: ANNIE ANJANA A RegisterNumber: 24010978
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-26 042000](https://github.com/user-attachments/assets/69575fed-e18a-41de-b82d-984a39340ef4)
+![Screenshot 2024-12-26 084123](https://github.com/user-attachments/assets/6842e74f-f6aa-4260-9da1-4c9dbbb07eee)
+
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-12-26 042158](https://github.com/user-attachments/assets/068f50e4-eb6a-4362-a9c8-d0d11b056de0)
+![Screenshot 2024-12-26 084319](https://github.com/user-attachments/assets/d0f2afe7-94d6-4ec8-85cc-4abcd27fd56a)
+
 
 
 **RESULTS**
